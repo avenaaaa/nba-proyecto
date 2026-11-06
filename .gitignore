@@ -219,5 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Datos: se regeneran con el código, no se suben
+# Datos: se regeneran con el codigo, no se suben
 data/
